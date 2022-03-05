@@ -9,3 +9,7 @@ Simple project using jsp/jstl technologies
 
 
 ## MASTER SYSTEMES INTELLIGENTS ET MOBILES.
+
+## Features:
+
+- **javaEE-Eclipse**
